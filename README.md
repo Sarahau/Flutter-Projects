@@ -17,6 +17,8 @@
 - Developed functionality for managing menus, pop-up locations, and schedules.
 
 ### Screenshots
-![Pizza Prof Map Screen](https://github.com/Sarahau/Flutter-Projects/blob/main/Images/pizza_prof_map_view.png)
-![Pizza Prof Menu Screen](https://github.com/Sarahau/Flutter-Projects/blob/main/Images/pizza_prof_menu.png)
-![Pizza Prof About Screen](https://github.com/Sarahau/Flutter-Projects/blob/main/Images/pizza_prof_about.png)
+<p align="center">
+  <img src="Images/pizza_prof_map_view.png" height="350">
+  <img src="Images/pizza_prof_menu.png" height="350">
+  <img src="Images/pizza_prof_about.png" height="350">
+</p>
